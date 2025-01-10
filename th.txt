@@ -1,0 +1,84 @@
+dev
+
+mobile dev :
+    app : java, python,  c++, 
+
+web dev :
+    : html , css, js, php
+
+
+     website :- collection of webpages  
+
+            static web page : fixed content
+            dynamic web page : content changes based on user input
+
+---------------------------------------------------------------------
+
+in html we which web pages we can create?
+
+    1. static web page
+    2. dynamic web page
+
+
+----------------------------------------------------
+
+html : Hyper Text Markup Language
+
+    1. Hyper Text : text with links
+    2. Markup : tags
+
+----------------------------------------------------
+HTML 5.0    --> 2014
+HTML 4.0    --> 1997
+-----------------------------------------------------
+
+whom devlop the html?
+    Tim Berners-Lee
+
+-----------------------------------------------------
+
+vs code : text editor
+Note pad : text editor
+dreamweaver : IDE
+Notepad++ : text editor
+
+
+          .html file  --->  New version     -> 264 characters we can use
+          .htm        ---> old version      ->  80 characters we can use
+-----------------------------------------------------
+
+html tags : 
+
+    1. opening tag
+    2. closing tag
+    3. content
+    4. element
+
+    //open tag       // close tag
+    <tagname> content </tagname>
+
+    <tagname> content </tagname>  --> element
+
+    <tagname> content  --> opening tag
+    </tagname> content  --> closing tag
+
+-----------------------------------------------------
+
+<!DOCTYPE html>
+--> Document type declaration
+
+<html lang="en">
+--> in html we use English language
+
+//Head tag
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+// Body tag
+<body>
+    
+</body>
+</html>
