@@ -1,0 +1,85 @@
+dev
+
+    mobile dev :
+        app : java , python, c++, ai, ml
+
+    web dev :
+        front end : html, css, js, react, angular
+        back end : php, python, nodejs, java
+
+what is website ?
+    collection of web pages
+
+what is web page ?
+    html file   // hardcoded data
+
+
+types of websites :
+    1. static website     --> html file   --> fixed content 
+    2. dynamic website    --> database --> content changes based on user request
+
+--------------------------------------------------------------------------------------------
+
+
+html ?
+    --> hyper text markup language
+    --> used to create web pages
+    --> tags
+    --> attributes
+    --> elements
+    --> structure
+    --> content
+--------------------------------------------------
+vs code : text editor
+notepad : text editor
+sublime : text editor
+atom : text editor
+brackets : text editor
+--------------------------------------------------
+chrome : browser
+firefox : browser
+safari : browser
+opera : browser
+edge : browser
+
+
+--------------------------------------------------
+
+        .html // file_name.html      --> extension    --> 90's pc --> 8.3 naming convention
+        .htm // file_name.htm       --> extension     --> 80 - 90's  pc --> 8.3 naming convention
+
+        .html5 // file_name.html5   --> extension     --> 21st century pc --> 8.3 naming convention
+
+--------------------------------------------------
+
+TAGS :
+    --> opening tag
+    --> closing tag
+    --> content
+    --> self closing tag
+
+    <tag_name> content </tag_name>
+    <tag_name>    </tag_name>
+    <tag_name />
+
+--------------------------------------------------
+
+<!DOCTYPE html>
+--> Document type declaration
+
+<html lang="en">
+--> in html we use English language
+
+//Head tag
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+// Body tag
+<body>
+    
+</body>
+
+</html>
