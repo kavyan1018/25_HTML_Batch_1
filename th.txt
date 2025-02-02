@@ -1,68 +1,68 @@
 dev
 
-mobile dev :
-    app : java, python,  c++, 
+    mobile dev :
+        app : java , python, c++, ai, ml
 
-web dev :
-    : html , css, js, php
+    web dev :
+        front end : html, css, js, react, angular
+        back end : php, python, nodejs, java
 
+what is website ?
+    collection of web pages
 
-     website :- collection of webpages  
-
-            static web page : fixed content
-            dynamic web page : content changes based on user input
-
----------------------------------------------------------------------
-
-in html we which web pages we can create?
-
-    1. static web page
-    2. dynamic web page
+what is web page ?
+    html file   // hardcoded data
 
 
-----------------------------------------------------
+types of websites :
+    1. static website     --> html file   --> fixed content 
+    2. dynamic website    --> database --> content changes based on user request
 
-html : Hyper Text Markup Language
+--------------------------------------------------------------------------------------------
 
-    1. Hyper Text : text with links
-    2. Markup : tags
 
-----------------------------------------------------
-HTML 5.0    --> 2014
-HTML 4.0    --> 1997
------------------------------------------------------
-
-whom devlop the html?
-    Tim Berners-Lee
-
------------------------------------------------------
-
+html ?
+    --> hyper text markup language
+    --> used to create web pages
+    --> tags
+    --> attributes
+    --> elements
+    --> structure
+    --> content
+--------------------------------------------------
 vs code : text editor
-Note pad : text editor
-dreamweaver : IDE
-Notepad++ : text editor
+notepad : text editor
+sublime : text editor
+atom : text editor
+brackets : text editor
+--------------------------------------------------
+chrome : browser
+firefox : browser
+safari : browser
+opera : browser
+edge : browser
 
 
-          .html file  --->  New version     -> 264 characters we can use
-          .htm        ---> old version      ->  80 characters we can use
------------------------------------------------------
+--------------------------------------------------
 
-html tags : 
+        .html // file_name.html      --> extension    --> 90's pc --> 8.3 naming convention
+        .htm // file_name.htm       --> extension     --> 80 - 90's  pc --> 8.3 naming convention
 
-    1. opening tag
-    2. closing tag
-    3. content
-    4. element
+        .html5 // file_name.html5   --> extension     --> 21st century pc --> 8.3 naming convention
 
-    //open tag       // close tag
-    <tagname> content </tagname>
+--------------------------------------------------
 
-    <tagname> content </tagname>  --> element
+TAGS :
+    --> opening tag
+    --> closing tag
+    --> content
+    --> self closing tag
 
-    <tagname> content  --> opening tag
-    </tagname> content  --> closing tag
+    <tag_name> content </tag_name>
+    <tag_name>    </tag_name>
+    <tag_name />
 
------------------------------------------------------
+--------------------------------------------------
 
 <!DOCTYPE html>
 --> Document type declaration
