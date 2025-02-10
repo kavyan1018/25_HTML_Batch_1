@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- 
+        li ==> list item
+        ol ==> order list 
+        ul ==> unorder list
+    -->
+
+    <!-- from ul tag u will get dics by default -->
+    <ul type="square">
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Water</li>
+    </ul>
+
+    <!-- from ol tag u will get numbers by default -->
+    <ol type="1" reversed start="10">
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Water</li>
+    </ol>
+
+
+    <!-- Nested list -->
+    <ol type="1">
+        <li>
+            Coffee
+            <ol>
+                <li>Black Coffee</li>
+                <li>Cold Coffee</li>
+                <li>Cold brew</li>
+            </ol>
+        </li>
+        <li>
+            Tea
+            <ul type="disc">
+                <li>Black Tea</li>
+                <li>Green Tea</li>
+                <li>Herbal Tea</li>
+            </ul>
+        </li>
+        <li>
+            Water
+            <ol type="A" reversed>
+                <li>Hot Water</li>
+                <li>Cold Water</li>
+                <li>Normal Water</li>
+            </ol>
+        </li>
+    </ol>
+
+</body>
+
+</html>
