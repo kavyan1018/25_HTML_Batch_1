@@ -1,0 +1,27 @@
+Bio data 
+Name :
+Father Name :
+Mother Name :
+Age :
+School Name :
+Class / Std :
+
+what is coding ?
+--> coding is a way to communicate with computer.
+
+
+key borders key have a ascii value
+Binarry
+
+which language is understand by computer ?
+--> Machine Language
+
+what is the full form of HTML ?
+-> Hyper Text Markup Language
+
+
+types of technology :
+
+1. Web Development : web Development is a process of creating a website or web application.
+2. App Development : App Development is a process of creating a mobile application.
+3. Software Development : Software Development is a process of creating a software.
